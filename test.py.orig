@@ -1,9 +1,0 @@
-This is a test file
-
-now dev2 has made changes first
-
-<<<<<<< HEAD
-Now adding from Dev1
-=======
-Have to add another because of pulling first in dev1
->>>>>>> 9605c412e503337f060bb328aaffb79344773e99
